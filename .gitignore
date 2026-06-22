@@ -1,0 +1,7 @@
+*.db
+*.pyc
+__pycache__/
+build/
+dist/
+*.spec
+newshub_config.json
