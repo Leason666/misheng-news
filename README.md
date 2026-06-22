@@ -4,7 +4,7 @@
 
 ## 下载
 
-👉 **[下载米生新闻 v1.0.0](../../releases/latest/download/NewsHub.exe)**
+[下载米生新闻 v1.0.0](https://github.com/Leason666/misheng-news/releases/download/v1.0.0/NewsHub.exe)
 
 ## 功能
 
