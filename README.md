@@ -34,3 +34,7 @@
 ## 使用方式
 
 双击 NewsHub.exe 即可启动。首次启动会自动创建数据库。
+
+
+**下载地址**: [NewsHub.exe (v2.0.0)](https://github.com/Leason666/misheng-news/releases/download/v2.0.0/NewsHub.exe)
+**最新版本**: v2.0.0
